@@ -148,9 +148,9 @@ var modelMap = map[string]string{
 	"gpt-4-turbo":             "gpt_4_turbo",
 	"gpt-3.5-turbo":           "gpt_3.5",
 	"claude-4-opus":           "claude_4_opus",
-	"claude-4-opus-think":	   "claude_4_opus_thinking"
+	"claude-4-opus-think":	   "claude_4_opus_thinking",
 	"claude-4-sonnet":         "claude_4_sonnet",
-	"claude-4-sonnet-think":         "claude_4_sonnet_thinking",
+	"claude-4-sonnet-think":   "claude_4_sonnet_thinking",
 	"gemini-1.5-pro":          "gemini_1_5_pro",
 	"gemini-1.5-flash":        "gemini_1_5_flash",
 	"llama-3.2-90b":           "llama3_2_90b",
